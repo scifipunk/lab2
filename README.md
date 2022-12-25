@@ -44,7 +44,7 @@
 
 
 ## Примеры HTTP запросов/ответов
-![user_scen1](algs/httpansw.png)
+![user_scen1](algs/httpansw.PNG)
 
 
 ## Значимые фрагменты кода
