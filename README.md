@@ -12,7 +12,7 @@
 ## Ход работы
 ### Пользовательский интерфейс
 
-   ![slide1](algs/slide1.png)
+   ![slide1](algs/slide1.PNG)
 
 
 ### Пользовательский сценарий
@@ -38,9 +38,9 @@
 
 ## Описание алгоритмов
 1. Алгоритм отправки сообщения                        
-![user_alg1](algs/fpostalg.png)                                         
+![user_alg1](algs/fpostalg.PNG)                                         
 2. Алгоритм оставления реакции                                                   
-![user_alg1](algs/flikealg.png)                 
+![user_alg1](algs/flikealg.PNG)                 
 
 
 ## Примеры HTTP запросов/ответов
